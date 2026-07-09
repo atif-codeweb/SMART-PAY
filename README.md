@@ -2,6 +2,15 @@
 
 A full-stack digital wallet and payments application built on the MERN stack (MongoDB, Express, React, Node.js). Users can send money by phone number, pay bills, earn cashback, track spending with budgets and analytics, and more. An admin panel provides platform management, KYC verification, and offer creation.
 
+## Live Demo
+
+- **Live App:** https://smart-pay-nz.vercel.app
+- **Backend API:** https://smart-pay-ten.vercel.app
+
+Try it with the demo admin account: `admin@smartpay.com` / `admin123`
+
+> Note: the backend is hosted on a free tier that sleeps when idle, so the first request after a period of inactivity may take 20–30 seconds to respond.
+
 ---
 
 ## Features
